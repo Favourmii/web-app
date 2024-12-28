@@ -1,3 +1,24 @@
 <?php
     echo "This is the PHP web app";
 ?>
+<OL>
+    <LI>SHOE</LI>
+    <LI>CAR</LI>
+    <LI>FOOFBALL</LI>
+</OL>
+<UL>
+    <LI>SHOE</LI>
+    <LI>CAR</LI>
+    <LI>FOOFBALL</LI>
+    <UL>  
+        <LI>RICE
+                <UL>
+                    <LI>RICETOMA</LI>
+                    <LI>RICETOMAYY</LI>
+                    <LI>RICETOMABVB</LI>
+                    </UL>
+        <LI>BEANS</LI>
+        <LI>YAM</LI>
+    </UL>
+    <LI>FAVOUR</LI>
+</UL>
